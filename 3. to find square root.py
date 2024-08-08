@@ -16,4 +16,4 @@ num = int(input("Enter your number: "))
 
 sr = math.sqrt(num)
 
-print("Square root of given number is: ", sr)
+print("Square root of the given number is: ", sr)
